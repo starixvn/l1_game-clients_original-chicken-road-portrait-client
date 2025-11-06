@@ -182,6 +182,7 @@ export class BetHandler extends gc.Bet.BetHandler implements gc.Shared.IMultiple
     }
 
     triggerAutoCashOut() {
+        return;
         if (this.betsStore.autoCashOutEnable) {
             this.betsStore.resetAutoCashOutTimer();
             return;

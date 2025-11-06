@@ -9,7 +9,7 @@ export class AutoPlayStore {
         mobx.makeAutoObservable(this);
     }
 
-    public roundsList = [10, 30, 50, 80, 100, 200, 500, 1000];
+    public roundsList = [3, 30, 50, 80, 100, 200, 500, 1000];
     public isOpenAutoplayPopup = false;
     public selectedRoundOnPopup = this.roundsList[0];
     public roundsAutoplay = 0;
