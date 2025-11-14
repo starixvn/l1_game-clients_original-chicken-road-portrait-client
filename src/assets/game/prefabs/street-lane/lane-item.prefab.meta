@@ -1,9 +1,11 @@
 {
   "ver": "1.1.50",
   "importer": "prefab",
-  "imported": false,
+  "imported": true,
   "uuid": "89a807cf-276b-4787-925d-a6f82800ff8c",
-  "files": [],
+  "files": [
+    ".json"
+  ],
   "subMetas": {},
   "userData": {
     "syncNodeName": "lane-item"
