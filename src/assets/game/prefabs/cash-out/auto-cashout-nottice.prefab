@@ -149,7 +149,7 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": -12.4296875,
+      "x": -8.986328125,
       "y": 0,
       "z": 0
     },
@@ -190,7 +190,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 240.53125,
+      "width": 152.265625,
       "height": 37.8
     },
     "_anchorPoint": {
@@ -229,14 +229,14 @@
     "_string": "Auto cash out in",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 32,
-    "_fontSize": 32,
+    "_actualFontSize": 20,
+    "_fontSize": 20,
     "_fontFamily": "Arial",
     "_lineHeight": 30,
     "_overflow": 0,
     "_enableWrapText": true,
     "_font": {
-      "__uuid__": "e3d36477-6fd0-4ee4-b4cc-ed05fa79994a",
+      "__uuid__": "cbf6b70e-8a23-4b37-b5a7-aa9a65c55384",
       "__expectedType__": "cc.TTFFont"
     },
     "_isSystemFontUsed": false,
@@ -306,8 +306,6 @@
       "__id__": 0
     },
     "fileId": "66+qywXVxA05OdAxlXGZqu",
-    "instance": null,
-    "targetOverrides": null,
     "nestedPrefabInstanceRoots": null
   },
   {
@@ -333,7 +331,7 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 123.265625,
+      "x": 79.1328125,
       "y": 0,
       "z": 0
     },
@@ -374,7 +372,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 18.859375,
+      "width": 11.97265625,
       "height": 37.8
     },
     "_anchorPoint": {
@@ -413,14 +411,14 @@
     "_string": "5",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 32,
-    "_fontSize": 32,
+    "_actualFontSize": 20,
+    "_fontSize": 20,
     "_fontFamily": "Arial",
     "_lineHeight": 30,
     "_overflow": 0,
     "_enableWrapText": true,
     "_font": {
-      "__uuid__": "e3d36477-6fd0-4ee4-b4cc-ed05fa79994a",
+      "__uuid__": "cbf6b70e-8a23-4b37-b5a7-aa9a65c55384",
       "__expectedType__": "cc.TTFFont"
     },
     "_isSystemFontUsed": false,
@@ -486,7 +484,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 265.390625,
+      "width": 170.23828125,
       "height": 100
     },
     "_anchorPoint": {
