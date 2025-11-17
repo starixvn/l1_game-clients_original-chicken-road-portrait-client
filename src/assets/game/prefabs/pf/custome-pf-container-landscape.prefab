@@ -293,7 +293,7 @@
     "propertyPath": [
       "_policy"
     ],
-    "value": 0
+    "value": 2
   },
   {
     "__type__": "cc.TargetInfo",
