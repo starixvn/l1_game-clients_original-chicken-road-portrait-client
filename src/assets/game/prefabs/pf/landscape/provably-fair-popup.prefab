@@ -424,7 +424,7 @@
     "_contentSize": {
       "__type__": "cc.Size",
       "width": 297.6328125,
-      "height": 50.4
+      "height": 63
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -465,7 +465,7 @@
     "_actualFontSize": 48,
     "_fontSize": 48,
     "_fontFamily": "Arial",
-    "_lineHeight": 40,
+    "_lineHeight": 50,
     "_overflow": 0,
     "_enableWrapText": true,
     "_font": {
@@ -1630,7 +1630,7 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 278.946,
+      "x": 365.539,
       "y": 0,
       "z": 0
     },
@@ -1686,7 +1686,7 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 72.40087890625,
+      "x": -20,
       "y": -8.021999999999935,
       "z": 0
     },
@@ -1735,7 +1735,7 @@
       "b": 255,
       "a": 255
     },
-    "_string": "Crash Point:",
+    "_string": "Result:",
     "_horizontalAlign": 0,
     "_verticalAlign": 1,
     "_actualFontSize": 32,
@@ -1798,7 +1798,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 183.09375,
+      "width": 102.71875,
       "height": 55.44
     },
     "_anchorPoint": {
@@ -1824,7 +1824,7 @@
     "__prefab": {
       "__id__": 76
     },
-    "key": "CoinMining.header_crash_point",
+    "key": "Common.result",
     "format": 3,
     "prefix": "",
     "suffix": ":",
@@ -1888,7 +1888,7 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 92.40087890625,
+      "x": 0,
       "y": -10,
       "z": 0
     },
@@ -2041,12 +2041,12 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 164.8017578125,
+      "width": 122.71875,
       "height": 44
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
-      "x": 0,
+      "x": 1,
       "y": 0.5
     },
     "_id": ""
@@ -2067,7 +2067,7 @@
     "__prefab": {
       "__id__": 89
     },
-    "_resizeMode": 2,
+    "_resizeMode": 1,
     "_layoutType": 1,
     "_cellSize": {
       "__type__": "cc.Size",
