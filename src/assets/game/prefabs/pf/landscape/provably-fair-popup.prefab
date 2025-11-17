@@ -10633,7 +10633,7 @@
     "propertyPath": [
       "keyText"
     ],
-    "value": "pf_provably_fair_para_1"
+    "value": "pf_combined_sha512_hash_tooltip_para_1"
   },
   {
     "__type__": "cc.TargetInfo",
@@ -10792,7 +10792,7 @@
     "propertyPath": [
       "nameSpace"
     ],
-    "value": "CoinMining"
+    "value": "Common"
   },
   {
     "__type__": "CCPropertyOverrideInfo",
@@ -15671,6 +15671,12 @@
       },
       {
         "__id__": 878
+      },
+      {
+        "__id__": 880
+      },
+      {
+        "__id__": 883
       }
     ],
     "nestedPrefabInstanceRoots": [
@@ -15813,6 +15819,66 @@
     "__type__": "cc.TargetInfo",
     "localID": [
       "873qpoATpIrJD37DtDpPHl"
+    ]
+  },
+  {
+    "__type__": "cc.TargetOverrideInfo",
+    "source": {
+      "__id__": 550
+    },
+    "sourceInfo": {
+      "__id__": 881
+    },
+    "propertyPath": [
+      "nodeTooltip"
+    ],
+    "target": {
+      "__id__": 550
+    },
+    "targetInfo": {
+      "__id__": 882
+    }
+  },
+  {
+    "__type__": "cc.TargetInfo",
+    "localID": [
+      "b2oMl10CBPR7+jnPWWjsB0"
+    ]
+  },
+  {
+    "__type__": "cc.TargetInfo",
+    "localID": [
+      "ec5fuB8WJJoaR6JAoaLtLK"
+    ]
+  },
+  {
+    "__type__": "cc.TargetOverrideInfo",
+    "source": {
+      "__id__": 550
+    },
+    "sourceInfo": {
+      "__id__": 884
+    },
+    "propertyPath": [
+      "lblContent"
+    ],
+    "target": {
+      "__id__": 550
+    },
+    "targetInfo": {
+      "__id__": 885
+    }
+  },
+  {
+    "__type__": "cc.TargetInfo",
+    "localID": [
+      "b2oMl10CBPR7+jnPWWjsB0"
+    ]
+  },
+  {
+    "__type__": "cc.TargetInfo",
+    "localID": [
+      "fcig/cOGxOzrKDPnopT7dR"
     ]
   }
 ]
