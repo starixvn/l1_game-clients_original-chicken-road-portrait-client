@@ -5342,7 +5342,7 @@
       "a": 255
     },
     "_string": "Server Seed Sha256",
-    "_horizontalAlign": 1,
+    "_horizontalAlign": 0,
     "_verticalAlign": 1,
     "_actualFontSize": 16,
     "_fontSize": 16,
@@ -5402,7 +5402,7 @@
     "__prefab": {
       "__id__": 238
     },
-    "key": "Common.pf_header_server_seed_sha256",
+    "key": "Common.pf_header_server_seed_sha256_single",
     "format": 3,
     "prefix": "",
     "suffix": "",
