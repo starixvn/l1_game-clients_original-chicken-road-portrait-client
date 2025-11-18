@@ -2398,19 +2398,15 @@
     "vehicleStartPoint": {
       "__id__": 87
     },
-    "vehicleRandomEndPoint": {
-      "__id__": 95
-    },
     "vehicleHitBarrierEndPoint": {
       "__id__": 91
     },
-    "vehicleHitCrashEndPoint": {
+    "vehicleEndPoint": {
       "__id__": 95
     },
     "vehicleSkeleton": {
       "__id__": 84
     },
-    "barrierHeight": 100,
     "_id": ""
   },
   {
