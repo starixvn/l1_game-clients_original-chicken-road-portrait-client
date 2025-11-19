@@ -55,6 +55,7 @@ export class GameMode extends ObserverComponent {
                 child.getChildByName(`name-lbl`).active = true;
                 child.getChildByName(`selected-name-lbl`).active = false;
             }
+            child.getChildByName(`hover-name-lbl`).active = false
         }
     }
 
