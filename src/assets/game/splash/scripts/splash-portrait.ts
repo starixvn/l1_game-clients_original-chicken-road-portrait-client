@@ -1,5 +1,4 @@
 import { _decorator, ProgressBar } from "cc";
-import Observer from "observer";
 
 import Splash from "db://shared-components/splash/scripts/components/splash";
 import AutoTestSplash from "db://shared-components/shared/common-components/auto-test/auto-test-splash";
