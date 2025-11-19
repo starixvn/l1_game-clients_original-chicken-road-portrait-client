@@ -5,10 +5,8 @@ import Splash from "db://shared-components/splash/scripts/components/splash";
 import AutoTestSplash from "db://shared-components/shared/common-components/auto-test/auto-test-splash";
 
 const { ccclass } = _decorator;
-const { observer } = Observer;
 
 @ccclass
-@observer
 export default class SplashPortrait extends Splash {
     onLoad() {
         super.onLoad();
