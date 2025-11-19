@@ -916,9 +916,9 @@
     "_dstBlendFactor": 4,
     "_color": {
       "__type__": "cc.Color",
-      "r": 100,
-      "g": 0,
-      "b": 211,
+      "r": 57,
+      "g": 57,
+      "b": 57,
       "a": 255
     },
     "_spriteFrame": {
@@ -1191,9 +1191,9 @@
     "_dstBlendFactor": 4,
     "_color": {
       "__type__": "cc.Color",
-      "r": 255,
-      "g": 255,
-      "b": 255,
+      "r": 152,
+      "g": 152,
+      "b": 152,
       "a": 255
     },
     "_string": "3000",
@@ -3462,6 +3462,7 @@
       "__id__": 0
     },
     "fileId": "be2fNGbk9PvqxUIETt0Ti8",
-    "instance": null
+    "instance": null,
+    "targetOverrides": null
   }
 ]
