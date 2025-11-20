@@ -164,7 +164,7 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": -128,
+      "x": -138,
       "y": 0,
       "z": 0
     },
@@ -205,7 +205,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 46.7578125,
+      "width": 62.5390625,
       "height": 50.4
     },
     "_anchorPoint": {
@@ -241,7 +241,7 @@
       "b": 255,
       "a": 255
     },
-    "_string": "Player",
+    "_string": "Jugador",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 16,
@@ -351,7 +351,7 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": -42,
+      "x": -62,
       "y": 0,
       "z": 0
     },
@@ -392,7 +392,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 25.1015625,
+      "width": 62.6171875,
       "height": 50.4
     },
     "_anchorPoint": {
@@ -428,7 +428,7 @@
       "b": 255,
       "a": 255
     },
-    "_string": "Bet",
+    "_string": "Apuesta",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 16,
@@ -579,7 +579,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 74.359375,
+      "width": 98.3671875,
       "height": 50.4
     },
     "_anchorPoint": {
@@ -615,7 +615,7 @@
       "b": 255,
       "a": 255
     },
-    "_string": "Multiplier ",
+    "_string": "Multiplicador",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 16,
@@ -766,7 +766,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 29.296875,
+      "width": 45.2890625,
       "height": 50.4
     },
     "_anchorPoint": {
@@ -802,7 +802,7 @@
       "b": 255,
       "a": 255
     },
-    "_string": "Win",
+    "_string": "Ganar",
     "_horizontalAlign": 2,
     "_verticalAlign": 1,
     "_actualFontSize": 16,
@@ -900,7 +900,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 345,
+      "width": 353,
       "height": 44
     },
     "_anchorPoint": {
@@ -1328,7 +1328,7 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 160.5,
+      "x": 164.5,
       "y": 0,
       "z": 0
     },
@@ -1600,7 +1600,7 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": -22.5,
+      "x": -26.5,
       "y": 0,
       "z": 0
     },
@@ -1998,7 +1998,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 54.1875,
+      "width": 78.8359375,
       "height": 75.6
     },
     "_anchorPoint": {
@@ -2034,7 +2034,7 @@
       "b": 255,
       "a": 255
     },
-    "_string": "Players",
+    "_string": "Jugadores",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 16,
@@ -2387,7 +2387,7 @@
     ],
     "value": {
       "__type__": "cc.Size",
-      "width": 345,
+      "width": 353,
       "height": 44
     }
   },
@@ -2423,7 +2423,7 @@
     ],
     "value": {
       "__type__": "cc.Vec3",
-      "x": 160.5,
+      "x": 164.5,
       "y": 0,
       "z": 0
     }
@@ -2464,7 +2464,7 @@
     ],
     "value": {
       "__type__": "cc.Vec3",
-      "x": -22.5,
+      "x": -26.5,
       "y": 0,
       "z": 0
     }
@@ -2589,7 +2589,7 @@
     ],
     "value": {
       "__type__": "cc.Size",
-      "width": 54.1875,
+      "width": 78.8359375,
       "height": 75.6
     }
   },
