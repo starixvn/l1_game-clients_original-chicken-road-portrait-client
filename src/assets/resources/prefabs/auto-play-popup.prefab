@@ -349,8 +349,8 @@
     },
     "_lscale": {
       "__type__": "cc.Vec3",
-      "x": 0.5,
-      "y": 0.5,
+      "x": 0.7,
+      "y": 0.7,
       "z": 1
     },
     "_mobility": 0,
@@ -601,7 +601,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 217.7109375,
+      "width": 227.953125,
       "height": 63
     },
     "_anchorPoint": {
@@ -637,7 +637,7 @@
       "b": 255,
       "a": 255
     },
-    "_string": "Auto Play",
+    "_string": "Auto-Play",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 48,
