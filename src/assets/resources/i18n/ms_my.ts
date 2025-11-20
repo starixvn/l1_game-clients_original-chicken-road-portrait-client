@@ -627,7 +627,7 @@ export const languages = {
         "start_mining": "Mula Melombong",
         "hit_rock": "Kena Batu!",
         "cash_out": "Tunai Keluar",
-        "big_win_banner": "Big Win!",
+        "big_win_banner": "Big Win",
         "leaderboard_highest_wins": "Kemenangan Tertinggi",
         "leaderboard_highest_multipliers": "Pengganda Tertinggi",
         "game_name": "Perlombongan Kripto",
