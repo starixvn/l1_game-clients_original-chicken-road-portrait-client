@@ -2686,7 +2686,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "in-game-menu",
+    "_name": "back-to-lobby",
     "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
