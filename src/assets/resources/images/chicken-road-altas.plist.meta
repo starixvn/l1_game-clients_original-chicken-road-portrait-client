@@ -2049,7 +2049,7 @@
         "rawWidth": 262,
         "rawHeight": 800,
         "borderTop": 0,
-        "borderBottom": 0,
+        "borderBottom": 300,
         "borderLeft": 0,
         "borderRight": 0,
         "packable": true,
