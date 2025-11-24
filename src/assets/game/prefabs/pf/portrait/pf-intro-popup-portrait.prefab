@@ -46,7 +46,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": 0,
+      "y": -32.5,
       "z": 0
     },
     "_lrot": {
@@ -146,7 +146,7 @@
     "_contentSize": {
       "__type__": "cc.Size",
       "width": 786,
-      "height": 10000
+      "height": 9935
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -388,7 +388,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": -60,
+      "y": 0,
       "z": 0
     },
     "_lrot": {
@@ -514,7 +514,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": 583.763948497854,
+      "y": 611.263948497854,
       "z": 0
     },
     "_lrot": {
@@ -610,7 +610,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 352.40625,
+      "width": 384,
       "height": 50.4
     },
     "_anchorPoint": {
@@ -646,11 +646,11 @@
       "b": 255,
       "a": 255
     },
-    "_string": "Provably Fair Guides",
+    "_string": "プロバブリーフェアガイド",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 36,
-    "_fontSize": 36,
+    "_actualFontSize": 32,
+    "_fontSize": 32,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
     "_overflow": 0,
@@ -762,7 +762,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 352.40625,
+      "width": 384,
       "height": 50
     },
     "_anchorPoint": {
@@ -893,8 +893,8 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 338.718,
-      "y": 569.48,
+      "x": 348.718,
+      "y": 596.98,
       "z": 0
     },
     "_lrot": {
@@ -956,8 +956,8 @@
     },
     "_lscale": {
       "__type__": "cc.Vec3",
-      "x": 0.8,
-      "y": 0.8,
+      "x": 1,
+      "y": 1,
       "z": 1
     },
     "_mobility": 0,
@@ -984,8 +984,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 45,
-      "height": 45
+      "width": 42,
+      "height": 42
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -1034,7 +1034,7 @@
     },
     "_fillStart": 0,
     "_fillRange": 0,
-    "_isTrimmedMode": true,
+    "_isTrimmedMode": false,
     "_useGrayscale": false,
     "_atlas": {
       "__uuid__": "bd769873-bebd-49ab-81f8-f23dd6c9c61f",
@@ -1174,7 +1174,7 @@
     "_alignFlags": 33,
     "_target": null,
     "_left": 0,
-    "_right": 19.281999999999982,
+    "_right": 9.281999999999982,
     "_top": 7.520000000000039,
     "_bottom": 0,
     "_horizontalCenter": 0,
@@ -1276,7 +1276,7 @@
     "_contentSize": {
       "__type__": "cc.Size",
       "width": 604.6153846153846,
-      "height": 856.9230769230769
+      "height": 899.2307692307692
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -1534,7 +1534,7 @@
     "_contentSize": {
       "__type__": "cc.Size",
       "width": 786,
-      "height": 1224
+      "height": 1279
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -1677,7 +1677,7 @@
     "_contentSize": {
       "__type__": "cc.Size",
       "width": 786,
-      "height": 1224
+      "height": 1279
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -1706,7 +1706,7 @@
     "_target": null,
     "_left": 0,
     "_right": 0,
-    "_top": 120,
+    "_top": 0,
     "_bottom": 0,
     "_horizontalCenter": 0,
     "_verticalCenter": 0,
@@ -1718,7 +1718,7 @@
     "_isAbsVerticalCenter": true,
     "_originalWidth": 856,
     "_originalHeight": 1279,
-    "_alignMode": 1,
+    "_alignMode": 2,
     "_lockFlags": 0,
     "_id": ""
   },
@@ -1754,7 +1754,7 @@
     "_contentSize": {
       "__type__": "cc.Size",
       "width": 786,
-      "height": 1344
+      "height": 1279
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -1783,7 +1783,7 @@
     "_target": null,
     "_left": 0,
     "_right": 0,
-    "_top": 0,
+    "_top": 65,
     "_bottom": 0,
     "_horizontalCenter": 0,
     "_verticalCenter": 0,
@@ -1815,9 +1815,7 @@
     "__prefab": {
       "__id__": 86
     },
-    "nodeFadeBackground": {
-      "__id__": 2
-    },
+    "nodeFadeBackground": null,
     "nodeBody": {
       "__id__": 17
     },

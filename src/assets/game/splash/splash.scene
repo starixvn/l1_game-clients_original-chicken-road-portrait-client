@@ -466,10 +466,7 @@
       "b": 255,
       "a": 255
     },
-    "_spriteFrame": {
-      "__uuid__": "5a27b866-2afc-4615-b96f-46b329dd1b5b@f9941",
-      "__expectedType__": "cc.SpriteFrame"
-    },
+    "_spriteFrame": null,
     "_type": 0,
     "_fillType": 0,
     "_sizeMode": 2,
@@ -798,7 +795,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 140.8799591064453,
+      "width": 150,
       "height": 50.4
     },
     "_anchorPoint": {
@@ -828,7 +825,7 @@
       "b": 255,
       "a": 255
     },
-    "_string": "LOADING",
+    "_string": "読み込み中",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 30,
@@ -910,7 +907,7 @@
     "_prefab": null,
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 72.93997955322266,
+      "x": 77.5,
       "y": 0,
       "z": 0
     },
@@ -1036,7 +1033,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 209.98992919921875,
+      "width": 219.10997009277344,
       "height": 100
     },
     "_anchorPoint": {
