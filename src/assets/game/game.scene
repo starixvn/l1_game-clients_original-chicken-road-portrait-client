@@ -111,7 +111,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 393,
-      "y": 672,
+      "y": 672.0000000000001,
       "z": 0
     },
     "_lrot": {
@@ -278,7 +278,7 @@
     "_priority": 0,
     "_fov": 45,
     "_fovAxis": 0,
-    "_orthoHeight": 672,
+    "_orthoHeight": 672.0000000000001,
     "_near": 0,
     "_far": 1000,
     "_color": {
@@ -374,7 +374,7 @@
     "_contentSize": {
       "__type__": "cc.Size",
       "width": 786,
-      "height": 1344
+      "height": 1344.0000000000002
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -603,7 +603,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": 672,
+      "y": 672.0000000000001,
       "z": 0
     },
     "_lrot": {
@@ -3635,7 +3635,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": -1917.0269999999998,
+      "y": -1231.5829999999999,
       "z": 0
     },
     "_lrot": {
@@ -3674,7 +3674,7 @@
     "_contentSize": {
       "__type__": "cc.Size",
       "width": 786,
-      "height": 1765.9460000000004
+      "height": 392.83399999999995
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -3693,12 +3693,12 @@
     },
     "_enabled": true,
     "__prefab": null,
-    "_alignFlags": 45,
+    "_alignFlags": 40,
     "_target": null,
     "_left": 0,
     "_right": 0,
-    "_top": 1034.0539999999996,
-    "_bottom": 2.2737367544323206e-13,
+    "_top": 1443.0269999999998,
+    "_bottom": 408.9730000000004,
     "_horizontalCenter": 0,
     "_verticalCenter": 0,
     "_isAbsLeft": true,
@@ -3995,7 +3995,7 @@
     "_contentSize": {
       "__type__": "cc.Size",
       "width": 786,
-      "height": 1344
+      "height": 1344.0000000000002
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -4152,7 +4152,7 @@
     "_contentSize": {
       "__type__": "cc.Size",
       "width": 786,
-      "height": 1344
+      "height": 1344.0000000000002
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -4204,7 +4204,7 @@
     "_contentSize": {
       "__type__": "cc.Size",
       "width": 786,
-      "height": 1344
+      "height": 1344.0000000000002
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -4310,7 +4310,7 @@
     "_contentSize": {
       "__type__": "cc.Size",
       "width": 786,
-      "height": 1344
+      "height": 1344.0000000000002
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -4389,7 +4389,7 @@
     "_contentSize": {
       "__type__": "cc.Size",
       "width": 786,
-      "height": 1344
+      "height": 1344.0000000000002
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
