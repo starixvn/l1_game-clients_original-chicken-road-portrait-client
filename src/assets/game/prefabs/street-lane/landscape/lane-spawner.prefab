@@ -516,7 +516,7 @@
       "__id__": 14
     },
     "asset": {
-      "__uuid__": "89a807cf-276b-4787-925d-a6f82800ff8c",
+      "__uuid__": "1cd68014-4fe0-4c35-a846-967efa93033b",
       "__expectedType__": "cc.Prefab"
     },
     "fileId": "be2fNGbk9PvqxUIETt0Ti8",
@@ -527,7 +527,7 @@
   },
   {
     "__type__": "cc.PrefabInstance",
-    "fileId": "23cFr5BU1I0olmC+GqplKM",
+    "fileId": "3bYJAreOxKU5vqmYMBfePu",
     "prefabRootNode": {
       "__id__": 1
     },
@@ -628,7 +628,7 @@
       "__id__": 22
     },
     "asset": {
-      "__uuid__": "89a807cf-276b-4787-925d-a6f82800ff8c",
+      "__uuid__": "1cd68014-4fe0-4c35-a846-967efa93033b",
       "__expectedType__": "cc.Prefab"
     },
     "fileId": "be2fNGbk9PvqxUIETt0Ti8",
@@ -639,7 +639,7 @@
   },
   {
     "__type__": "cc.PrefabInstance",
-    "fileId": "43p1tej1hPOazLZ+D2ST/f",
+    "fileId": "58CF0VrSdHvpfqCMj2dj7f",
     "prefabRootNode": {
       "__id__": 1
     },
@@ -740,7 +740,7 @@
       "__id__": 30
     },
     "asset": {
-      "__uuid__": "89a807cf-276b-4787-925d-a6f82800ff8c",
+      "__uuid__": "1cd68014-4fe0-4c35-a846-967efa93033b",
       "__expectedType__": "cc.Prefab"
     },
     "fileId": "be2fNGbk9PvqxUIETt0Ti8",
@@ -751,7 +751,7 @@
   },
   {
     "__type__": "cc.PrefabInstance",
-    "fileId": "1duuojm5lFFaX2VekzIHIx",
+    "fileId": "74SLGUvIRB1L95/PCV0FfG",
     "prefabRootNode": {
       "__id__": 1
     },
@@ -852,7 +852,7 @@
       "__id__": 38
     },
     "asset": {
-      "__uuid__": "89a807cf-276b-4787-925d-a6f82800ff8c",
+      "__uuid__": "1cd68014-4fe0-4c35-a846-967efa93033b",
       "__expectedType__": "cc.Prefab"
     },
     "fileId": "be2fNGbk9PvqxUIETt0Ti8",
@@ -863,7 +863,7 @@
   },
   {
     "__type__": "cc.PrefabInstance",
-    "fileId": "ccGQHo0VJJWKQx7o7d2CYA",
+    "fileId": "933rwWYOhOTYJTU2g/6A+o",
     "prefabRootNode": {
       "__id__": 1
     },
@@ -2505,7 +2505,7 @@
       "__id__": 125
     },
     "lanePrefab": {
-      "__uuid__": "89a807cf-276b-4787-925d-a6f82800ff8c",
+      "__uuid__": "1cd68014-4fe0-4c35-a846-967efa93033b",
       "__expectedType__": "cc.Prefab"
     },
     "laneContent": {
