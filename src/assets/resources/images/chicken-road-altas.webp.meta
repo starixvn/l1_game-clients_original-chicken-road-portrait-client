@@ -2,7 +2,7 @@
   "ver": "1.0.27",
   "importer": "image",
   "imported": true,
-  "uuid": "201e3247-ec42-4ef9-8a56-9153b186f691",
+  "uuid": "f9a14b19-c275-4dfd-a7af-f14fa49bf478",
   "files": [
     ".json",
     ".webp"
@@ -10,14 +10,14 @@
   "subMetas": {
     "6c48a": {
       "importer": "texture",
-      "uuid": "201e3247-ec42-4ef9-8a56-9153b186f691@6c48a",
+      "uuid": "f9a14b19-c275-4dfd-a7af-f14fa49bf478@6c48a",
       "displayName": "chicken-road-altas",
       "id": "6c48a",
       "name": "texture",
       "userData": {
         "wrapModeS": "clamp-to-edge",
         "wrapModeT": "clamp-to-edge",
-        "imageUuidOrDatabaseUri": "201e3247-ec42-4ef9-8a56-9153b186f691",
+        "imageUuidOrDatabaseUri": "f9a14b19-c275-4dfd-a7af-f14fa49bf478",
         "isUuid": true,
         "visible": false,
         "minfilter": "linear",
@@ -34,7 +34,7 @@
     },
     "f9941": {
       "importer": "sprite-frame",
-      "uuid": "201e3247-ec42-4ef9-8a56-9153b186f691@f9941",
+      "uuid": "f9a14b19-c275-4dfd-a7af-f14fa49bf478@f9941",
       "displayName": "chicken-road-altas",
       "id": "f9941",
       "name": "spriteFrame",
@@ -113,7 +113,7 @@
           ]
         },
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "201e3247-ec42-4ef9-8a56-9153b186f691@6c48a",
+        "imageUuidOrDatabaseUri": "f9a14b19-c275-4dfd-a7af-f14fa49bf478@6c48a",
         "atlasUuid": "",
         "trimType": "auto"
       },
@@ -129,6 +129,6 @@
     "type": "sprite-frame",
     "hasAlpha": true,
     "fixAlphaTransparencyArtifacts": false,
-    "redirect": "201e3247-ec42-4ef9-8a56-9153b186f691@6c48a"
+    "redirect": "f9a14b19-c275-4dfd-a7af-f14fa49bf478@6c48a"
   }
 }
