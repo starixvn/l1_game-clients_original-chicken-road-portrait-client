@@ -396,8 +396,8 @@
     },
     "_lscale": {
       "__type__": "cc.Vec3",
-      "x": 0.8640915593705293,
-      "y": 0.8640915593705293,
+      "x": 1,
+      "y": 1,
       "z": 1
     },
     "_mobility": 0,
@@ -1427,8 +1427,8 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 346.6,
-      "y": 246.55,
+      "x": 358.6,
+      "y": 247.2,
       "z": 0
     },
     "_lrot": {
@@ -1705,8 +1705,8 @@
     "_alignFlags": 33,
     "_target": null,
     "_left": 0,
-    "_right": 24,
-    "_top": 12.650000000000006,
+    "_right": 12,
+    "_top": 12,
     "_bottom": 0,
     "_horizontalCenter": 0,
     "_verticalCenter": 0,
@@ -1882,7 +1882,7 @@
     "node": {
       "__id__": 15
     },
-    "_enabled": true,
+    "_enabled": false,
     "__prefab": {
       "__id__": 92
     },

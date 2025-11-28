@@ -2,7 +2,7 @@
   "ver": "1.0.27",
   "importer": "image",
   "imported": true,
-  "uuid": "f9a14b19-c275-4dfd-a7af-f14fa49bf478",
+  "uuid": "201e3247-ec42-4ef9-8a56-9153b186f691",
   "files": [
     ".json",
     ".webp"
@@ -10,14 +10,14 @@
   "subMetas": {
     "6c48a": {
       "importer": "texture",
-      "uuid": "f9a14b19-c275-4dfd-a7af-f14fa49bf478@6c48a",
+      "uuid": "201e3247-ec42-4ef9-8a56-9153b186f691@6c48a",
       "displayName": "chicken-road-altas",
       "id": "6c48a",
       "name": "texture",
       "userData": {
         "wrapModeS": "clamp-to-edge",
         "wrapModeT": "clamp-to-edge",
-        "imageUuidOrDatabaseUri": "f9a14b19-c275-4dfd-a7af-f14fa49bf478",
+        "imageUuidOrDatabaseUri": "201e3247-ec42-4ef9-8a56-9153b186f691",
         "isUuid": true,
         "visible": false,
         "minfilter": "linear",
@@ -34,19 +34,19 @@
     },
     "f9941": {
       "importer": "sprite-frame",
-      "uuid": "f9a14b19-c275-4dfd-a7af-f14fa49bf478@f9941",
+      "uuid": "201e3247-ec42-4ef9-8a56-9153b186f691@f9941",
       "displayName": "chicken-road-altas",
       "id": "f9941",
       "name": "spriteFrame",
       "userData": {
         "trimThreshold": 1,
         "rotated": false,
-        "offsetX": -13.5,
-        "offsetY": 30,
+        "offsetX": -52,
+        "offsetY": 33,
         "trimX": 2,
         "trimY": 2,
-        "width": 2017,
-        "height": 1984,
+        "width": 1940,
+        "height": 1978,
         "rawWidth": 2048,
         "rawHeight": 2048,
         "borderTop": 0,
@@ -60,17 +60,17 @@
         "meshType": 0,
         "vertices": {
           "rawPosition": [
-            -1008.5,
-            -992,
+            -970,
+            -989,
             0,
-            1008.5,
-            -992,
+            970,
+            -989,
             0,
-            -1008.5,
-            992,
+            -970,
+            989,
             0,
-            1008.5,
-            992,
+            970,
+            989,
             0
           ],
           "indexes": [
@@ -84,36 +84,36 @@
           "uv": [
             2,
             2046,
-            2019,
+            1942,
             2046,
             2,
-            62,
-            2019,
-            62
+            68,
+            1942,
+            68
           ],
           "nuv": [
             0.0009765625,
-            0.0302734375,
-            0.98583984375,
-            0.0302734375,
+            0.033203125,
+            0.9482421875,
+            0.033203125,
             0.0009765625,
             0.9990234375,
-            0.98583984375,
+            0.9482421875,
             0.9990234375
           ],
           "minPos": [
-            -1008.5,
-            -992,
+            -970,
+            -989,
             0
           ],
           "maxPos": [
-            1008.5,
-            992,
+            970,
+            989,
             0
           ]
         },
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "f9a14b19-c275-4dfd-a7af-f14fa49bf478@6c48a",
+        "imageUuidOrDatabaseUri": "201e3247-ec42-4ef9-8a56-9153b186f691@6c48a",
         "atlasUuid": "",
         "trimType": "auto"
       },
@@ -129,6 +129,6 @@
     "type": "sprite-frame",
     "hasAlpha": true,
     "fixAlphaTransparencyArtifacts": false,
-    "redirect": "f9a14b19-c275-4dfd-a7af-f14fa49bf478@6c48a"
+    "redirect": "201e3247-ec42-4ef9-8a56-9153b186f691@6c48a"
   }
 }
