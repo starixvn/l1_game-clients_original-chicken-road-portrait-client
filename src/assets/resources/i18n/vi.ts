@@ -643,8 +643,8 @@ export const languages = {
         "scoreboard_tie_short": "H"
     },
     "ChickenRoad": {
-        "game_name": "Chicken Road",
-        "game_icon_name": "Chicken Road",
+        "game_name": "Gà Vượt Làn",
+        "game_icon_name": "Gà Vượt Làn",
         "go": "Đi Tiếp",
         "difficulty_easy": "Dễ",
         "difficulty_hard": "Khó",
