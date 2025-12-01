@@ -5956,7 +5956,7 @@
     "__prefab": {
       "__id__": 309
     },
-    "key": "Common.pf_header_server_seed_sha256",
+    "key": "Common.pf_header_server_seed_sha256_single",
     "format": 3,
     "prefix": "",
     "suffix": "",
@@ -17776,7 +17776,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": -529.06,
+      "y": -540.06,
       "z": 0
     },
     "_lrot": {
@@ -17979,7 +17979,7 @@
     "_contentSize": {
       "__type__": "cc.Size",
       "width": 736,
-      "height": 45.72
+      "height": 67.72
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -18058,7 +18058,7 @@
     "_contentSize": {
       "__type__": "cc.Size",
       "width": 736,
-      "height": 551.9200000000001
+      "height": 573.9200000000001
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
