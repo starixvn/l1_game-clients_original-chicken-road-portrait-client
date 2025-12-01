@@ -54,7 +54,7 @@ export default class PlaceBetButton extends ObserverComponent {
     }
 
     private onClickSpace() {
-        if (this.uiState === BetUIState.Animating || this.uiState === BetUIState.Settle) {
+        if (this.uiState === BetUIState.Animating || this.uiState === BetUIState.Settle || this.isAutoPlay) {
             return;
         }
         this.onClickBetButton();
