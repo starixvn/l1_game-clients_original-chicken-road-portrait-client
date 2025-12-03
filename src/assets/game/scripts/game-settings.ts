@@ -1,7 +1,7 @@
-const GAME_NAME = "ChickenRoad";
+const GAME_NAME = "ChickenLove";
 
 export const settings = {
-    id: 157,
+    id: 166,
     name: GAME_NAME,
     observerNamespace: GAME_NAME,
     namespaces: [GAME_NAME],
