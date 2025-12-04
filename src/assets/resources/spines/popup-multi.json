@@ -18,7 +18,7 @@
 	{ "name": "board side2", "parent": "side2", "x": 72.44 },
 	{ "name": "hightlight", "parent": "root" },
 	{ "name": "clip", "parent": "hightlight", "x": -141.04 },
-	{ "name": "number", "parent": "root" }
+	{ "name": "number", "parent": "root", "y": -4 }
 ],
 "slots": [
 	{ "name": "board mid", "bone": "board mid", "attachment": "board-normal" },

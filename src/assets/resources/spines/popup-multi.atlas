@@ -6,7 +6,7 @@ filter: Linear,Linear
 repeat: none
 board
   rotate: false
-  xy: 231, 2
+  xy: 229, 2
   size: 219, 73
   orig: 227, 73
   offset: 0, 0
@@ -14,7 +14,7 @@ board
 board-normal
   rotate: false
   xy: 2, 2
-  size: 227, 73
+  size: 225, 73
   orig: 227, 73
-  offset: 0, 0
+  offset: 1, 0
   index: -1
