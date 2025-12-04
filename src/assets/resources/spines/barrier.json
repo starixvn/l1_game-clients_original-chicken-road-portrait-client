@@ -1,12 +1,12 @@
 {
-"skeleton": { "hash": "T9ydx/W5VzMVFfWZa1xkO2i+m70", "spine": "3.8.99", "images": "./ga/", "audio": "D:/MYWORKFOLDER/design/Chicken-crash/animation/ga" },
+"skeleton": { "hash": "rk63xC2su4XsqJm6Fdj4nvr1dmA", "spine": "3.8.99", "images": "./ga/", "audio": "D:/MYWORKFOLDER/design/Chicken-crash/animation/ga" },
 "bones": [
 	{ "name": "root" },
-	{ "name": "barrel", "parent": "root", "y": -0.99 },
-	{ "name": "effect", "parent": "root" },
-	{ "name": "shadow mid", "parent": "effect", "y": -2.29 },
-	{ "name": "smoke R", "parent": "effect", "y": -56.11 },
-	{ "name": "smoke L", "parent": "effect", "y": -56.11 }
+	{ "name": "barrel", "parent": "root", "y": -11.04 },
+	{ "name": "effect", "parent": "root", "scaleX": 1.2, "scaleY": 1.2 },
+	{ "name": "shadow mid", "parent": "effect", "y": 18.26, "scaleX": 1.1171, "scaleY": 3.1095 },
+	{ "name": "smoke R", "parent": "effect", "x": 53.15, "y": -61.96 },
+	{ "name": "smoke L", "parent": "effect", "x": -52.7, "y": -56.11 }
 ],
 "slots": [
 	{ "name": "ga/shadow mid", "bone": "shadow mid" },
@@ -19,13 +19,13 @@
 		"name": "default",
 		"attachments": {
 			"ga/barrel": {
-				"barrel": { "y": 39.9, "width": 230, "height": 119 }
+				"barrel": { "y": 39.9, "width": 270, "height": 119 }
 			},
 			"ga/shadow mid": {
 				"shadow mid": { "width": 235, "height": 34 }
 			},
 			"ga/smoke L": {
-				"smoke L": { "y": 40, "width": 194, "height": 90 }
+				"smoke L": { "y": 40, "width": 168, "height": 99 }
 			},
 			"ga/smoke R": {
 				"smoke R": { "y": 40, "width": 168, "height": 99 }
