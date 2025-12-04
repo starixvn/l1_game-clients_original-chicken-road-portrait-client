@@ -626,11 +626,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{168,90}</string>
+                <string>{235,132}</string>
                 <key>spriteSourceSize</key>
-                <string>{168,90}</string>
+                <string>{235,132}</string>
                 <key>textureRect</key>
-                <string>{{1145,773},{168,90}}</string>
+                <string>{{1145,773},{235,132}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -645,7 +645,7 @@
                 <key>spriteSourceSize</key>
                 <string>{262,800}</string>
                 <key>textureRect</key>
-                <string>{{1315,773},{262,798}}</string>
+                <string>{{1382,773},{262,798}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -660,7 +660,7 @@
                 <key>spriteSourceSize</key>
                 <string>{10,16}</string>
                 <key>textureRect</key>
-                <string>{{1579,773},{10,16}}</string>
+                <string>{{1646,773},{10,16}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -675,7 +675,7 @@
                 <key>spriteSourceSize</key>
                 <string>{1,1}</string>
                 <key>textureRect</key>
-                <string>{{1591,773},{1,1}}</string>
+                <string>{{1658,773},{1,1}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -690,7 +690,7 @@
                 <key>spriteSourceSize</key>
                 <string>{22,22}</string>
                 <key>textureRect</key>
-                <string>{{1594,773},{22,22}}</string>
+                <string>{{1661,773},{22,22}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -705,7 +705,7 @@
                 <key>spriteSourceSize</key>
                 <string>{22,22}</string>
                 <key>textureRect</key>
-                <string>{{1618,773},{22,22}}</string>
+                <string>{{1685,773},{22,22}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -720,7 +720,7 @@
                 <key>spriteSourceSize</key>
                 <string>{130,44}</string>
                 <key>textureRect</key>
-                <string>{{1642,773},{130,44}}</string>
+                <string>{{1709,773},{130,44}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -735,7 +735,7 @@
                 <key>spriteSourceSize</key>
                 <string>{50,50}</string>
                 <key>textureRect</key>
-                <string>{{1826,773},{50,50}}</string>
+                <string>{{1893,773},{50,50}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -750,7 +750,7 @@
                 <key>spriteSourceSize</key>
                 <string>{50,50}</string>
                 <key>textureRect</key>
-                <string>{{1878,773},{50,50}}</string>
+                <string>{{1945,773},{50,50}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -765,7 +765,7 @@
                 <key>spriteSourceSize</key>
                 <string>{50,50}</string>
                 <key>textureRect</key>
-                <string>{{1774,773},{50,50}}</string>
+                <string>{{1841,773},{50,50}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -783,7 +783,7 @@
             <key>size</key>
             <string>{2048,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:4e6c242b9dd0662be75422d4346d8af0:0f0ee5ae3cc13fe37b48c6c5a18f40f4:86853d687cf73ad5b3d027ead8bfc206$</string>
+            <string>$TexturePacker:SmartUpdate:c097396d102a793bd2f5a92493ba18b9:c35bc2ddcee3959803e76837e855a36d:86853d687cf73ad5b3d027ead8bfc206$</string>
             <key>textureFileName</key>
             <string>chicken-road-altas.webp</string>
         </dict>
