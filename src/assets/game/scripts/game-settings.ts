@@ -4,7 +4,7 @@ export const settings = {
     id: 166,
     name: GAME_NAME,
     observerNamespace: GAME_NAME,
-    namespaces: [GAME_NAME],
+    namespaces: ["ChickenRoad"],
     durations: {
         wholeRound: 14,
         lockingBet: 3,

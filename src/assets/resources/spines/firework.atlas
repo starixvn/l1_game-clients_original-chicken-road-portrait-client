@@ -1,258 +1,146 @@
 
 firework.webp
-size: 1856,1424
+size: 512,256
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-firework0
-  rotate: false
-  xy: 1599, 15
-  size: 66, 59
-  orig: 300, 300
-  offset: 118, 119
-  index: -1
-firework1
-  rotate: false
-  xy: 1699, 869
-  size: 113, 112
-  orig: 300, 300
-  offset: 93, 93
-  index: -1
 firework10
   rotate: false
-  xy: 1150, 848
-  size: 275, 290
-  orig: 300, 300
-  offset: 9, 4
+  xy: 2, 9
+  size: 268, 107
+  orig: 786, 442
+  offset: 266, 117
   index: -1
 firework11
   rotate: false
-  xy: 869, 848
-  size: 279, 290
-  orig: 300, 300
-  offset: 9, 5
+  xy: 2, 9
+  size: 268, 107
+  orig: 786, 442
+  offset: 266, 117
   index: -1
 firework12
   rotate: false
-  xy: 585, 850
-  size: 282, 288
-  orig: 300, 300
-  offset: 6, 5
+  xy: 2, 118
+  size: 279, 136
+  orig: 786, 442
+  offset: 256, 128
   index: -1
 firework13
   rotate: false
-  xy: 0, 544
-  size: 285, 292
-  orig: 300, 300
-  offset: 4, 4
+  xy: 2, 118
+  size: 279, 136
+  orig: 786, 442
+  offset: 256, 128
   index: -1
 firework14
-  rotate: false
-  xy: 0, 250
-  size: 285, 292
-  orig: 300, 300
-  offset: 4, 4
+  rotate: true
+  xy: 283, 73
+  size: 108, 150
+  orig: 786, 442
+  offset: 340, 149
   index: -1
 firework15
-  rotate: false
-  xy: 0, 838
-  size: 287, 292
-  orig: 300, 300
-  offset: 4, 4
+  rotate: true
+  xy: 283, 73
+  size: 108, 150
+  orig: 786, 442
+  offset: 340, 149
   index: -1
 firework16
   rotate: false
-  xy: 0, 1132
-  size: 289, 292
-  orig: 300, 300
-  offset: 4, 4
+  xy: 272, 16
+  size: 126, 32
+  orig: 786, 442
+  offset: 333, 172
   index: -1
 firework17
   rotate: false
-  xy: 291, 1136
-  size: 292, 288
-  orig: 300, 300
-  offset: 3, 4
+  xy: 272, 16
+  size: 126, 32
+  orig: 786, 442
+  offset: 333, 172
   index: -1
 firework18
   rotate: false
-  xy: 585, 1140
-  size: 292, 284
-  orig: 300, 300
-  offset: 4, 4
+  xy: 453, 142
+  size: 34, 39
+  orig: 786, 442
+  offset: 433, 218
   index: -1
 firework19
   rotate: false
-  xy: 1173, 1141
-  size: 292, 283
-  orig: 300, 300
-  offset: 4, 4
+  xy: 453, 142
+  size: 34, 39
+  orig: 786, 442
+  offset: 433, 218
   index: -1
 firework2
   rotate: false
-  xy: 1699, 983
-  size: 150, 156
-  orig: 300, 300
-  offset: 77, 73
-  index: -1
-firework20
-  rotate: false
-  xy: 291, 849
-  size: 291, 285
-  orig: 300, 300
-  offset: 3, 4
-  index: -1
-firework21
-  rotate: false
-  xy: 1467, 1141
-  size: 292, 283
-  orig: 300, 300
-  offset: 4, 4
-  index: -1
-firework22
-  rotate: false
-  xy: 879, 1140
-  size: 292, 284
-  orig: 300, 300
-  offset: 4, 4
-  index: -1
-firework23
-  rotate: false
-  xy: 289, 563
-  size: 288, 284
-  orig: 300, 300
-  offset: 6, 4
-  index: -1
-firework24
-  rotate: false
-  xy: 287, 277
-  size: 288, 284
-  orig: 300, 300
-  offset: 6, 4
-  index: -1
-firework25
-  rotate: false
-  xy: 579, 563
-  size: 282, 284
-  orig: 300, 300
-  offset: 8, 3
-  index: -1
-firework26
-  rotate: false
-  xy: 849, 277
-  size: 281, 284
-  orig: 300, 300
-  offset: 9, 3
-  index: -1
-firework27
-  rotate: false
-  xy: 863, 563
-  size: 275, 283
-  orig: 300, 300
-  offset: 15, 4
-  index: -1
-firework28
-  rotate: false
-  xy: 1140, 563
-  size: 273, 283
-  orig: 300, 300
-  offset: 18, 4
-  index: -1
-firework29
-  rotate: false
-  xy: 1132, 278
-  size: 270, 283
-  orig: 300, 300
-  offset: 19, 4
+  xy: 2, 2
+  size: 7, 5
+  orig: 786, 442
+  offset: 422, 110
   index: -1
 firework3
   rotate: false
-  xy: 1652, 454
-  size: 179, 187
-  orig: 300, 300
-  offset: 58, 57
+  xy: 2, 2
+  size: 7, 5
+  orig: 786, 442
+  offset: 422, 110
   index: -1
-firework30
+firework20
   rotate: false
-  xy: 1427, 857
-  size: 270, 282
-  orig: 300, 300
-  offset: 19, 4
+  xy: 453, 104
+  size: 31, 36
+  orig: 786, 442
+  offset: 439, 261
   index: -1
-firework31
+firework21
   rotate: false
-  xy: 287, 0
-  size: 270, 275
-  orig: 300, 300
-  offset: 19, 4
-  index: -1
-firework32
-  rotate: false
-  xy: 821, 0
-  size: 265, 275
-  orig: 300, 300
-  offset: 19, 4
-  index: -1
-firework33
-  rotate: false
-  xy: 1088, 7
-  size: 258, 268
-  orig: 300, 300
-  offset: 19, 7
-  index: -1
-firework34
-  rotate: false
-  xy: 1415, 585
-  size: 235, 261
-  orig: 300, 300
-  offset: 42, 7
-  index: -1
-firework35
-  rotate: false
-  xy: 1404, 307
-  size: 233, 254
-  orig: 300, 300
-  offset: 43, 14
+  xy: 453, 104
+  size: 31, 36
+  orig: 786, 442
+  offset: 439, 261
   index: -1
 firework4
-  rotate: false
-  xy: 1652, 643
-  size: 204, 212
-  orig: 300, 300
-  offset: 47, 45
+  rotate: true
+  xy: 435, 59
+  size: 122, 16
+  orig: 786, 442
+  offset: 323, 117
   index: -1
 firework5
-  rotate: false
-  xy: 1599, 76
-  size: 225, 229
-  orig: 300, 300
-  offset: 36, 36
+  rotate: true
+  xy: 435, 59
+  size: 122, 16
+  orig: 786, 442
+  offset: 323, 117
   index: -1
 firework6
   rotate: false
-  xy: 0, 2
-  size: 239, 246
-  orig: 300, 300
-  offset: 30, 28
+  xy: 272, 50
+  size: 154, 21
+  orig: 786, 442
+  offset: 310, 131
   index: -1
 firework7
   rotate: false
-  xy: 1348, 14
-  size: 249, 262
-  orig: 300, 300
-  offset: 24, 21
+  xy: 272, 50
+  size: 154, 21
+  orig: 786, 442
+  offset: 310, 131
   index: -1
 firework8
   rotate: false
-  xy: 559, 0
-  size: 260, 275
-  orig: 300, 300
-  offset: 16, 14
+  xy: 283, 183
+  size: 201, 71
+  orig: 786, 442
+  offset: 290, 107
   index: -1
 firework9
   rotate: false
-  xy: 577, 277
-  size: 270, 284
-  orig: 300, 300
-  offset: 11, 7
+  xy: 283, 183
+  size: 201, 71
+  orig: 786, 442
+  offset: 290, 107
   index: -1

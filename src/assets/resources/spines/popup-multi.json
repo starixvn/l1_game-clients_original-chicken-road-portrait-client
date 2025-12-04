@@ -1,13 +1,13 @@
 {
 "skeleton": {
-	"hash": "zwWQzsFCKlN1rjPhi6PlsyVnryU",
+	"hash": "vDIqAiyC+EXgN/JfHvFFtIpsUms",
 	"spine": "3.8.99",
-	"x": -105.09,
-	"y": -34.29,
-	"width": 210.19,
-	"height": 67.59,
-	"images": "./images/",
-	"audio": "F:/WorkFolder/18 chicken road/popup multi"
+	"x": -113.6,
+	"y": -37.32,
+	"width": 227.2,
+	"height": 73.63,
+	"images": "./ime/",
+	"audio": "D:/MYWORKFOLDER/design/Chicken-love/popup-multi"
 },
 "bones": [
 	{ "name": "root" },
@@ -31,10 +31,10 @@
 		"name": "default",
 		"attachments": {
 			"board": {
-				"board": { "y": -0.5, "width": 210, "height": 67 }
+				"board": { "y": -0.5, "width": 227, "height": 73 }
 			},
 			"board mid": {
-				"board-normal": { "y": -0.5, "rotation": 0.16, "width": 210, "height": 67 }
+				"board-normal": { "y": -0.5, "rotation": 0.16, "width": 227, "height": 73 }
 			},
 			"hightlight": {
 				"hightlight": {
