@@ -1,5 +1,5 @@
 {
-"skeleton": { "hash": "T9ydx/W5VzMVFfWZa1xkO2i+m70", "spine": "3.8.99", "images": "./ga/", "audio": "D:/MYWORKFOLDER/design/Chicken-crash/animation/ga" },
+"skeleton": { "hash": "L9qVBhWEIjGHTu7L4JyeWP/NbJo", "spine": "3.8.99", "images": "./ga/", "audio": "D:/MYWORKFOLDER/design/Chicken-crash/animation/ga" },
 "bones": [
 	{ "name": "root" },
 	{ "name": "barrel", "parent": "root", "y": -0.99 },
@@ -19,7 +19,7 @@
 		"name": "default",
 		"attachments": {
 			"ga/barrel": {
-				"barrel": { "y": 39.9, "width": 230, "height": 119 }
+				"barrel": { "y": 39.9, "width": 215, "height": 136 }
 			},
 			"ga/shadow mid": {
 				"shadow mid": { "width": 235, "height": 34 }
@@ -87,9 +87,12 @@
 				]
 			},
 			"shadow mid": {
+				"translate": [
+					{ "y": 8.47 }
+				],
 				"scale": [
 					{ "x": 0.8, "y": 0.8 },
-					{ "time": 0.1667 }
+					{ "time": 0.1667, "y": 2.025 }
 				]
 			},
 			"smoke L": {

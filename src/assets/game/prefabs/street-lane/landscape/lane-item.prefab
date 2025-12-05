@@ -905,8 +905,8 @@
     },
     "_lscale": {
       "__type__": "cc.Vec3",
-      "x": 1,
-      "y": 1,
+      "x": 1.2,
+      "y": 1.2,
       "z": 1
     },
     "_mobility": 0,
@@ -1044,8 +1044,8 @@
     },
     "_lscale": {
       "__type__": "cc.Vec3",
-      "x": 1,
-      "y": 1,
+      "x": 0.9,
+      "y": 0.9,
       "z": 1
     },
     "_mobility": 0,
@@ -1072,8 +1072,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 168,
-      "height": 90
+      "width": 235,
+      "height": 132
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -1122,7 +1122,7 @@
     },
     "_fillStart": 0,
     "_fillRange": 0,
-    "_isTrimmedMode": true,
+    "_isTrimmedMode": false,
     "_useGrayscale": false,
     "_atlas": null,
     "_id": ""
@@ -1342,7 +1342,7 @@
     "node": {
       "__id__": 33
     },
-    "_enabled": true,
+    "_enabled": false,
     "__prefab": {
       "__id__": 55
     },
@@ -2575,8 +2575,8 @@
       "__uuid__": "7721da25-bcf4-4f31-a27d-a8b487ce79cd",
       "__expectedType__": "sp.SkeletonData"
     },
-    "defaultSkin": "default",
-    "defaultAnimation": "<None>",
+    "defaultSkin": "",
+    "defaultAnimation": "",
     "_premultipliedAlpha": false,
     "_timeScale": 1,
     "_preCacheMode": 0,
@@ -2635,7 +2635,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": -124.713,
+      "y": -119.713,
       "z": 0
     },
     "_lrot": {
@@ -3191,6 +3191,8 @@
       "__id__": 0
     },
     "fileId": "dc6jEhm21DmK2MnoKCW6ns",
+    "instance": null,
+    "targetOverrides": null,
     "nestedPrefabInstanceRoots": null
   },
   {

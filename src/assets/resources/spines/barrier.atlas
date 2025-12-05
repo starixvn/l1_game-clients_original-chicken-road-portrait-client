@@ -1,0 +1,34 @@
+
+barrier.webp
+size: 347,347
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+barrel
+  rotate: false
+  xy: 2, 209
+  size: 215, 136
+  orig: 215, 136
+  offset: 0, 0
+  index: -1
+shadow mid
+  rotate: true
+  xy: 311, 110
+  size: 235, 34
+  orig: 235, 34
+  offset: 0, 0
+  index: -1
+smoke L
+  rotate: true
+  xy: 219, 151
+  size: 194, 90
+  orig: 194, 90
+  offset: 0, 0
+  index: -1
+smoke R
+  rotate: false
+  xy: 2, 108
+  size: 168, 99
+  orig: 168, 99
+  offset: 0, 0
+  index: -1
