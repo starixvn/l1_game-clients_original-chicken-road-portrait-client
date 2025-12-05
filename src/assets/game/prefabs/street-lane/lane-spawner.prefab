@@ -1435,8 +1435,8 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": -99.913,
-      "y": 17.879,
+      "x": -38.031000000000006,
+      "y": -191.526,
       "z": 0
     },
     "_lrot": {
@@ -1448,7 +1448,7 @@
     },
     "_lscale": {
       "__type__": "cc.Vec3",
-      "x": 0.7,
+      "x": -0.7,
       "y": 0.7,
       "z": 1
     },
@@ -1476,13 +1476,13 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 271,
-      "height": 362
+      "width": 259.4599914550781,
+      "height": 393.44000244140625
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
-      "x": 0.5,
-      "y": 0.5
+      "x": 0.5163416543313121,
+      "y": 0.09391521079110988
     },
     "_id": ""
   },
@@ -1491,7 +1491,7 @@
     "fileId": "6ausn/KIRFHJisAPU7RlyH"
   },
   {
-    "__type__": "cc.Sprite",
+    "__type__": "sp.Skeleton",
     "_name": "",
     "_objFlags": 0,
     "__editorExtras__": {},
@@ -1512,31 +1512,28 @@
       "b": 255,
       "a": 255
     },
-    "_spriteFrame": {
-      "__uuid__": "dc2bc45e-1523-4969-9cc0-1656264d810f@be41d",
-      "__expectedType__": "cc.SpriteFrame"
+    "_skeletonData": {
+      "__uuid__": "7b8213f2-c7d2-4930-9e0f-387fe96b0508",
+      "__expectedType__": "sp.SkeletonData"
     },
-    "_type": 0,
-    "_fillType": 0,
-    "_sizeMode": 1,
-    "_fillCenter": {
-      "__type__": "cc.Vec2",
-      "x": 0,
-      "y": 0
-    },
-    "_fillStart": 0,
-    "_fillRange": 0,
-    "_isTrimmedMode": true,
-    "_useGrayscale": false,
-    "_atlas": {
-      "__uuid__": "dc2bc45e-1523-4969-9cc0-1656264d810f",
-      "__expectedType__": "cc.SpriteAtlas"
-    },
+    "defaultSkin": "default",
+    "defaultAnimation": "idle",
+    "_premultipliedAlpha": false,
+    "_timeScale": 1,
+    "_preCacheMode": 0,
+    "_cacheMode": 0,
+    "_sockets": [],
+    "_useTint": false,
+    "_debugMesh": false,
+    "_debugBones": false,
+    "_debugSlots": false,
+    "_enableBatch": false,
+    "loop": true,
     "_id": ""
   },
   {
     "__type__": "cc.CompPrefabInfo",
-    "fileId": "93NMP9PWJPWIOzkjGoqS9i"
+    "fileId": "4f4b5VqstFMaVEigSBdZPp"
   },
   {
     "__type__": "cc.PrefabInfo",
